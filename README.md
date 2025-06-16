@@ -1,5 +1,5 @@
 # Exploring-Causality-and-Explainability-in-Time-Series-Models
-This is my Masters's Thesis which is Supervised by Prof. K.V. Subrahmanyam
+This is my Masters's Thesis
 
 ### Abstract
 Causal inference is a powerful tool that allows us to move beyond surface-level correlations and uncover the true cause-and-effect relationships between variables. Whether we’re working with static (non-time series) datasets or dynamic, time-dependent data, understanding \textit{why} something happens is often more valuable than knowing \textit{what} happens. In non-temporal datasets, causal inference helps identify directional influences between variables, often using statistical asymmetries, intervention models, or graphical structures to distinguish genuine causes from mere associations.
