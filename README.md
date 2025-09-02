@@ -2,7 +2,7 @@
 This is my Masters's Thesis
 
 ### Abstract
-Causal inference is a powerful tool that allows us to move beyond surface-level correlations and uncover the true cause-and-effect relationships between variables. Whether we’re working with static (non-time series) datasets or dynamic, time-dependent data, understanding \textit{why} something happens is often more valuable than knowing \textit{what} happens. In non-temporal datasets, causal inference helps identify directional influences between variables, often using statistical asymmetries, intervention models, or graphical structures to distinguish genuine causes from mere associations.
+Causal inference is a powerful tool that allows us to move beyond surface-level correlations and uncover the true cause-and-effect relationships between variables. Whether we’re working with static (non-time series) datasets or dynamic, time-dependent data, understanding *why* something happens is often more valuable than knowing *what* happens. In non-temporal datasets, causal inference helps identify directional influences between variables, often using statistical asymmetries, intervention models, or graphical structures to distinguish genuine causes from mere associations.
 
 In this thesis, we examine the foundational principles of causal inference and how they apply across both non-time series and time series contexts. We explore a range of methodologies for identifying causal links and estimating their strength, with a focus on tools such as directed acyclic graphs (DAGs), structural equation models, and data-driven learning techniques.
 
